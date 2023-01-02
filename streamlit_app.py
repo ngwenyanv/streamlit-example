@@ -20,7 +20,6 @@ import streamlit as st
 
 # Data handling dependencies
 import pandas as pd
-import seaborn as sns
 import matplotlib.pyplot as plt
 import requests
 import toml
